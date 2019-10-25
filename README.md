@@ -5,7 +5,7 @@ This is based on the Iris tutorial that Microsoft provides at <https://docs.micr
 
 The input data looks like the following  
 
-![alt text](./data.png "Logo Title Text 1")
+![alt text](./input-data.png "Logo Title Text 1")
 
 The predictions look like the following  
 
